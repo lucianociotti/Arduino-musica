@@ -1,4 +1,6 @@
 // Alma Misionera - version LCD I2C (backpack PCF8574) + buzzer pasivo
+// Adaptado de la transcripcion de Roco (Rocoblog):
+// https://rocoblog.blogspot.com/2022/04/musica-con-arduino-uno-y-un-buzzer.html
 // Libreria: "LiquidCrystal I2C" de Frank de Brabander (Administrar bibliotecas)
 //
 // Conexiones (Arduino UNO):

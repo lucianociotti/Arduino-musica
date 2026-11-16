@@ -150,6 +150,8 @@ ptab = ',\n'.join('  {%d, %d, %d, %d}' % p for p in PASS_TAB)
 src = r'''// Marcha Peronista - LCD I2C 16x2 + buzzer pasivo, con letra sincronizada (3 estrofas)
 // Melodia convertida de "Marcha Peronista.mid" (notas fuertes del piano; se descartan
 // acompanamiento y adornos). Ritmo y silencios tal como estan en el MIDI.
+// Idea del buzzer con tone() en D12: Roco (Rocoblog)
+// https://rocoblog.blogspot.com/2022/04/musica-con-arduino-uno-y-un-buzzer.html
 // Libreria: "LiquidCrystal I2C" de Frank de Brabander (Administrar bibliotecas)
 //
 // Conexiones (Arduino UNO):

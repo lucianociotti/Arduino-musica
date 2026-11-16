@@ -1,5 +1,7 @@
 // Wellerman (sea shanty) - LCD I2C 16x2 + buzzer pasivo
 // Melodia convertida de wellerman.mid.mid (linea mas aguda del piano), letra en el LCD.
+// Idea del buzzer con tone() en D12: Roco (Rocoblog)
+// https://rocoblog.blogspot.com/2022/04/musica-con-arduino-uno-y-un-buzzer.html
 // Libreria: "LiquidCrystal I2C" de Frank de Brabander (Administrar bibliotecas)
 //
 // Conexiones (Arduino UNO):
