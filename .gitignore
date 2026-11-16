@@ -1,0 +1,7 @@
+# Originales de Roco y archivos MIDI de terceros: no se suben (ver README)
+AlmaMisionera/
+TheTRooper/
+Wellerman/
+*.mid
+
+__pycache__/
